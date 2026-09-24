@@ -39,6 +39,6 @@ Stack: Next.js 14 on Vercel, Supabase (Postgres), Stripe, Resend, and Anthropic 
 - **Observation before enforcement, for the riskiest changes.** Risky automated behaviors ship behind a flag and first run in an observe mode that logs what they would have done, then get switched on one flag at a time.
 - **A permanently red gate is a cut alarm wire.** The rule is that a check which can't be kept green gets fixed or removed, never normalized.
 
-## Elsewhere
+## Contact
 
-- Case study and incident record: [toc-architecture](https://github.com/ethanjsimp-debug/toc-architecture)
+Ethan Simpson, a senior at Brown University studying Applied Mathematics-Economics. Email: [ethanjsimp@gmail.com](mailto:ethanjsimp@gmail.com)
